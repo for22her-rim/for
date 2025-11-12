@@ -134,7 +134,8 @@ height: 5vh;
             margin-left: 2cap;
             translate: -15px -30px;
             height: 5vh;
-            
+            overflow-wrap: break-word;
+            max-width:300px;
     }
 }
 @keyframes typing{
@@ -797,3 +798,4 @@ top: 20vh;
         translate: 71vw 12vh ;
     }
 }
+
